@@ -1,0 +1,10 @@
+C:\Users\Amey\source\repos\FTSclient\FTSclient\bin\Debug\FTSclient.exe.config
+C:\Users\Amey\source\repos\FTSclient\FTSclient\bin\Debug\FTSclient.exe
+C:\Users\Amey\source\repos\FTSclient\FTSclient\bin\Debug\FTSclient.pdb
+C:\Users\Amey\source\repos\FTSclient\FTSclient\obj\Debug\FTSclient.csprojResolveAssemblyReference.cache
+C:\Users\Amey\source\repos\FTSclient\FTSclient\obj\Debug\FTSclient.Form1.resources
+C:\Users\Amey\source\repos\FTSclient\FTSclient\obj\Debug\FTSclient.Properties.Resources.resources
+C:\Users\Amey\source\repos\FTSclient\FTSclient\obj\Debug\FTSclient.csproj.GenerateResource.cache
+C:\Users\Amey\source\repos\FTSclient\FTSclient\obj\Debug\FTSclient.csproj.CoreCompileInputs.cache
+C:\Users\Amey\source\repos\FTSclient\FTSclient\obj\Debug\FTSclient.exe
+C:\Users\Amey\source\repos\FTSclient\FTSclient\obj\Debug\FTSclient.pdb

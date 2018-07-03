@@ -1,0 +1,10 @@
+c:\users\amey\source\repos\FTSServer\FTSServer\bin\Debug\FTSServer.exe.config
+c:\users\amey\source\repos\FTSServer\FTSServer\bin\Debug\FTSServer.exe
+c:\users\amey\source\repos\FTSServer\FTSServer\bin\Debug\FTSServer.pdb
+c:\users\amey\source\repos\FTSServer\FTSServer\obj\Debug\FTSServer.csprojResolveAssemblyReference.cache
+c:\users\amey\source\repos\FTSServer\FTSServer\obj\Debug\FTSServer.Form1.resources
+c:\users\amey\source\repos\FTSServer\FTSServer\obj\Debug\FTSServer.Properties.Resources.resources
+c:\users\amey\source\repos\FTSServer\FTSServer\obj\Debug\FTSServer.csproj.GenerateResource.cache
+c:\users\amey\source\repos\FTSServer\FTSServer\obj\Debug\FTSServer.csproj.CoreCompileInputs.cache
+c:\users\amey\source\repos\FTSServer\FTSServer\obj\Debug\FTSServer.exe
+c:\users\amey\source\repos\FTSServer\FTSServer\obj\Debug\FTSServer.pdb
